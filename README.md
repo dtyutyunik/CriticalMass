@@ -46,3 +46,11 @@ If you were given the time and resources to build/learn anything you wanted duri
 Critical Mass offers a unique opportunity to work on a wide array of projects, personally the UNMAS app that was created for United Nations is very eye opening and is a grim reminder of my trip to Angkor Wat and Cambodia, where I saw the beauty and mystery of Cambodia, but due to massive landmines spread throughout the country there is and will be unexplored ruins, history and landmark for years to come.
 
 If given a chance to learn anything, I definitely want to dive into three.js or a 3D based app or AR based app. The main reason why I got into Full Stack Development is to be in the forefront of technology, and although 3D, AR, VR, and MR have been out for a while, the market has yet to fully adopt them. Being a Full Stack Developer means I am able to bring concepts to full deployment, the only thing that I can think better than 2D is 3D and on. In order to make this a reality I would start with three.js as it tends to be the major underliner for 3D based applications. 
+
+## Question
+Code Challenge
+
+Please fork the following CodeSandbox project, follow the instructions provided in the README.md file in the project, and do your best to complete the challenge. When you are finished, provide a link to your solution in your README.md file of your GitHub repository. Be prepared to walk through your solution and explain the rationale behind your solution.
+## Answer
+
+Link to sandbox answer: https://codesandbox.io/s/40po8rlm1x
